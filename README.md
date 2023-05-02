@@ -1,6 +1,6 @@
 # Project_2Crowdfunding_ETL-challenge Project Partners: Lwam Mehare, Rebecca Solomon, Rosanna Chiu, Yi Pan, Telmen Erdenebat and Harsh Chapadia.
 
-Note: For the partners project my group and I discussed the deliverables and each completed the code independently. There are separate repos and separate notebooks, scripts with the work.
+Note: We decided as a team, based on the project description, to do the work all together. The Category and Subcategory dataframes were created together. Most of the rest of the project was done individually with the rest of the group being able to help eachother in difficult spots. Every group member that contributed has their very own branch in the repository to push the code they created. The Main branch is used as the final submission for the entire group, buit each individuals contributions can be found in those branches.
 
 # Project Overview:
 Building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions after transforming the data, create 4 CSV files and use the CSV file data to create an ERD and a table schema load CSV files to resources db the overall project is broken into 4 subsections.
